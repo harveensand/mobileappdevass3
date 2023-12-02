@@ -1,4 +1,4 @@
-# assignment_3
+# Mobile Development - Assignment 3
 
 A new Flutter project.
 
